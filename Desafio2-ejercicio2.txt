@@ -1,0 +1,4 @@
+Pasos a seguir para subir los cambios a produccion si es la rama master la que se usa para produccion:
+1) Pararme en la rama front-react
+2)Realizar un commit desde React.js
+3) Fusionar la rama front-react en la rama master git merge front-react
